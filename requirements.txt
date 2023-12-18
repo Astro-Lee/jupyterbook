@@ -6,3 +6,4 @@ ghp-import
 ipywidgets
 torch
 torchquad
+smplotlib
